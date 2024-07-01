@@ -1,3 +1,4 @@
 This is the image during running the application on android studio 
 
-![run image](https://github.com/1556245/first_task/assets/111219555/8ec96952-8de7-4870-8484-d8b5c098440f)
+![image](https://github.com/1556245/first_task/assets/111219555/e4aadc97-5208-45ff-9f35-4b0d6524b82c)
+
